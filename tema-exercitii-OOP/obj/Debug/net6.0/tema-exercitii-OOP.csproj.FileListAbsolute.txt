@@ -1,0 +1,15 @@
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\bin\Debug\net6.0\tema-exercitii-OOP.exe
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\bin\Debug\net6.0\tema-exercitii-OOP.deps.json
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\bin\Debug\net6.0\tema-exercitii-OOP.runtimeconfig.json
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\bin\Debug\net6.0\tema-exercitii-OOP.dll
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\bin\Debug\net6.0\tema-exercitii-OOP.pdb
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\obj\Debug\net6.0\tema-exercitii-OOP.csproj.AssemblyReference.cache
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\obj\Debug\net6.0\tema-exercitii-OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\obj\Debug\net6.0\tema-exercitii-OOP.AssemblyInfoInputs.cache
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\obj\Debug\net6.0\tema-exercitii-OOP.AssemblyInfo.cs
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\obj\Debug\net6.0\tema-exercitii-OOP.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\obj\Debug\net6.0\tema-exercitii-OOP.dll
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\obj\Debug\net6.0\refint\tema-exercitii-OOP.dll
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\obj\Debug\net6.0\tema-exercitii-OOP.pdb
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\obj\Debug\net6.0\tema-exercitii-OOP.genruntimeconfig.cache
+D:\mycode\csharp\teme\tema-exercitii-OOP\tema-exercitii-OOP\obj\Debug\net6.0\ref\tema-exercitii-OOP.dll
